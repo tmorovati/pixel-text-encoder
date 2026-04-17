@@ -1,11 +1,3 @@
-# This project is about
-# 1. read the IMAGE + get the text from input
-# 2. turn the text into ascii code - put it in the RGB of the image
-# 3. from the other side get the image and find the text 
-
-# Ask GPT if we write a class for this projecT? 
-
-     
 from steganography import encode_text, decode_text
 
 
